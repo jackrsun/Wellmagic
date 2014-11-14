@@ -10,7 +10,7 @@ They can be opened and read in their raw format, or follow the links to display 
 
 ## Other stuff
 
-1. qsiwell2.csv: log data from Well 2 of [Quantitative Seismic Interpretation](https://pangea.stanford.edu/researchgroups/srb/resources/books/quantitative-seismic-interpretation), 
-2. qsiwell2_frm.csv: qsiwell2 + fluid replaced elastic logs
-3. qsiwell2_augmented.csv: barebones well data, only Ip, Vp/Vs and LFC (litho-fluid class log)
-4. qsiwell2_synthetic.csv: synthetic data generated through Monte Carlo simulation, same logs as in (3), i.e. Ip, Vp/Vs and LFC.
+* `qsiwell2.csv`: log data from Well 2 of [Quantitative Seismic Interpretation](https://pangea.stanford.edu/researchgroups/srb/resources/books/quantitative-seismic-interpretation), 
+* `qsiwell2_frm.csv`: qsiwell2 + fluid replaced elastic logs
+* `qsiwell2_augmented.csv`: barebones well data, only Ip, Vp/Vs and LFC (litho-fluid class log)
+* `qsiwell2_synthetic.csv`: synthetic data generated through Monte Carlo simulation, same logs as in `qsiwell2_augmented.csv` (Ip, Vp/Vs and LFC)
