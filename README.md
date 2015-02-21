@@ -1,16 +1,3 @@
-# Wellmagic
+# Wellmagic == is an OLD repo
 
-IPython notebooks (and a python script) to do some magic things with well log data.
-
-They can be opened and read in their raw format, or follow the links to display them in Notebook Viewer:
-
-* [Synthetic data generation](http://nbviewer.ipython.org/github/aadm/Wellmagic/blob/master/Synthetic%20data%20generation.ipynb)
-* [Synthetic data generation interactive](http://nbviewer.ipython.org/github/aadm/Wellmagic/blob/master/Synthetic%20data%20generation%20interactive.ipynb)
-
-
-## Other stuff
-
-* `qsiwell2.csv`: log data from Well 2 of [Quantitative Seismic Interpretation](https://pangea.stanford.edu/researchgroups/srb/resources/books/quantitative-seismic-interpretation), 
-* `qsiwell2_frm.csv`: qsiwell2 + fluid replaced elastic logs
-* `qsiwell2_augmented.csv`: barebones well data, only Ip, Vp/Vs and LFC (litho-fluid class log)
-* `qsiwell2_synthetic.csv`: synthetic data generated through Monte Carlo simulation, same logs as in `qsiwell2_augmented.csv` (Ip, Vp/Vs and LFC)
+I have moved all the stuff originally published here to another repo, so please redirect your browsers to <https://github.com/aadm/geophysical_notes>.
